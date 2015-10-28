@@ -1,0 +1,11 @@
+utils\PathsKeeper.class
+core\Main.class
+core\pages\MainPage.class
+utils\Utils.class
+core\factory\DriverFactory.class
+core\pages\ProductsListPage.class
+core\dto\Product.class
+core\pages\SubcategoriesPage.class
+core\stepdefs\StepDefsHolder.class
+utils\PropertiesReader.class
+core\pages\AbstractPage.class
